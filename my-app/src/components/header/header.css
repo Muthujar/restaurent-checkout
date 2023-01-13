@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #08316d;
+}
+
+.location {
+  margin-left: 100px;
+}
+
+.searchbox {
+  padding-left: 270px;
+  margin-top: 5px;
+  padding-top: 15px;
+}
+.my {
+  position: absolute;
+  top: 3px;
+  right: 7px;
+}
+.rows {
+  position: relative;
+  margin-left: 50px;
+  background-color: aqua;
+}
+.bound {
+  padding: 10px;
+  width: 70px;
+}

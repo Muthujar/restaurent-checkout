@@ -1,0 +1,48 @@
+.card {
+  width: 500px;
+  height: 10px;
+  background-color: aqua;
+  margin: 40px 110px;
+  padding-top: 10px;
+}
+.proimage {
+  width: 90px;
+  height: 100px;
+}
+.butar {
+  font-size: 12px;
+}
+.buttonend {
+  justify-content: end;
+}
+.dprice {
+  display: flex;
+  justify-content: end;
+  margin-left: 200px;
+}
+
+.butad {
+  font-size: 12px;
+}
+.butar2 {
+  margin-left: 100px;
+}
+.butam {
+  padding: 1px 10px;
+  font-size: 12px;
+}
+
+.namet {
+  font-size: 15px;
+}
+
+.heady {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.addbut {
+  margin-left: 290px;
+}
+.dfont {
+  font-size: 12px;
+}
