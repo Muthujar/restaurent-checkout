@@ -11,6 +11,12 @@
 }
 .butar {
   font-size: 12px;
+  background-color: white;
+  border-radius: 2px;
+  border-color: rgb(178, 178, 227);
+  border-width: 1px;
+  margin-left: 5px;
+  margin-bottom: 5px;
 }
 .buttonend {
   justify-content: end;
@@ -23,17 +29,37 @@
 
 .butad {
   font-size: 12px;
+  border-style: none;
+  margin-bottom: 5px;
+  border-radius: 2px;
+  color: #c18f13;
+  background-color: #fff1cf;
 }
 .butar2 {
   margin-left: 100px;
 }
+
+.butar3 {
+  color: #08316d;
+}
 .butam {
   padding: 1px 10px;
   font-size: 12px;
+  border-style: none;
+  margin-bottom: 5px;
+  border-radius: 2px;
+  color: #c18f13;
+  background-color: #fff1cf;
 }
 
 .namet {
-  font-size: 15px;
+  font-size: 14px;
+  color: #08316d;
+  font-weight: 600;
+}
+.procecol {
+  color: #08316d;
+  font-weight: 900;
 }
 
 .heady {
@@ -42,6 +68,10 @@
 }
 .addbut {
   margin-left: 290px;
+  background-color: white;
+  border-radius: 5px;
+  border-color: rgb(178, 178, 227);
+  border-width: 1px;
 }
 .dfont {
   font-size: 12px;

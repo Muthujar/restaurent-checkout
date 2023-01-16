@@ -17,7 +17,7 @@ export const Cart = ({
       <div className="d-flex heady">
         {/* <img alt="" src={bg1}></img> */}
         <h4>Cart summary</h4>
-        <button className="addbut">Add more</button>
+        <button className="addbut ">Add more</button>
       </div>
 
       <div>

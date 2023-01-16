@@ -6,6 +6,38 @@
   background-repeat: no-repeat;
   background-position: 300px 200px;
 }
-.dollor {
-  margin-left: 100px;
+.dollor1 {
+  margin-left: 250px;
+}
+.dollor2 {
+  margin-left: 205px;
+}
+.dollor3 {
+  margin-left: 250px;
+}
+.dollor4 {
+  margin-left: 205px;
+}
+.dollor5 {
+  margin-left: 180px;
+}
+.dollor6 {
+  margin-left: 235px;
+}
+.btc {
+  background-color: #08316d;
+  margin: 20px 150px;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 500;
+
+  padding-left: 25px;
+  border: none;
+}
+.colorg {
+  color: #08316d;
+}
+.lastb {
+  width: 100%;
+  height: 12px;
 }

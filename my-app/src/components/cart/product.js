@@ -35,7 +35,7 @@ export const Product = (props) => {
               <p className="dfont">{product.description}</p>
               <div className="d-flex">
                 <button className="butam">{product.details}</button>
-                <button className="butad ">{product.vng}</button>
+                <button className="butad mx-2 ">{product.vng}</button>
                 <div className="buttonend">
                   <button
                     className="butar butar2"
@@ -61,7 +61,6 @@ export const Product = (props) => {
           <div className="col-8 mar1 text-start">
             <div className="d-flex   ">
               <h6 className="namet">{newProducts.name}</h6>
-              {/* <img className="h-50 " src={product.color} alt="" /> */}
               <div>
                 {newProducts.color === "veg" ? (
                   <img className="h-25 mb-1 mx-1" src={vegi} alt="" />
@@ -70,14 +69,14 @@ export const Product = (props) => {
                 )}
               </div>
               <div className="dprice">
-                <p className="">${newProducts.price}</p>
+                <p className="pricecol">${newProducts.price}</p>
               </div>
             </div>
 
             <p className="dfont">{newProducts.description}</p>
             <div className="d-flex">
               <button className="butam">{newProducts.details}</button>
-              <button className="butad ">{newProducts.vng}</button>
+              <button className="butad mx-2">{newProducts.vng}</button>
               <div className="buttonend">
                 <button
                   className="butar butar2"
@@ -85,7 +84,7 @@ export const Product = (props) => {
                 >
                   -
                 </button>
-                <button className="butar">{newProducts.quantity}</button>
+                <button className="butar butar3">{newProducts.quantity}</button>
                 <button
                   className="butar"
                   onClick={() => handleAdd(newProducts)}
